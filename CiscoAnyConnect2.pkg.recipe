@@ -14,9 +14,9 @@ If you need more packages installing, you should make a copy of this recipe and 
 	<key>Description</key>
 	<string>Creates a Cisco AnyConnect VPN-only package.</string>
 	<key>Identifier</key>
-	<string>com.company.pkg.CiscoAnyConnect</string>
+	<string>com.derak.pkg.CiscoAnyConnect2</string>
 	<key>ParentRecipe</key>
-	<string>com.company.download.CiscoAnyConnect</string>
+	<string>com.derak.download.CiscoAnyConnect2</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
